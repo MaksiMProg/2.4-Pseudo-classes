@@ -1,0 +1,20 @@
+a:after {
+    line-height: 64px;
+    content: '>';
+    display: inline-block;
+    width: 59px;
+    height: 64px;
+    background-color: #15afcf;
+    text-align: center;
+    color: #fff;
+    margin-left: 22px;
+}
+
+a {
+    display: inline-block;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    background-color: #77e8fd;
+    padding-left: 17px;
+}
